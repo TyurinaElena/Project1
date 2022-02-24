@@ -55,3 +55,4 @@ if n == 6:
 else:
     print("It's incorrect")
 print("тест")
+print("Еще тест")
